@@ -1,0 +1,10 @@
+body {
+    background-color: rgb(247, 217, 223);
+}
+.element-father {
+    display: flex;
+    width: 600px;
+    height: 500px;
+    background-color: white;
+    justify-content: center;
+}
